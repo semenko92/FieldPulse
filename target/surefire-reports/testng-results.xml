@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="9088" started-at="2021-02-09T17:34:51Z" finished-at="2021-02-09T17:35:00Z">
+    <groups>
+    </groups>
+    <test name="LoginTest" duration-ms="9088" started-at="2021-02-09T17:34:51Z" finished-at="2021-02-09T17:35:00Z">
+      <class name="Tests.LoginTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String, java.lang.String)[pri:0, instance:Tests.LoginTest@3f792b9b]" name="beforeTest" is-config="true" duration-ms="2483" started-at="2021-02-09T19:34:51Z" finished-at="2021-02-09T19:34:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AllureLoginTest]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:Tests.LoginTest@3f792b9b]" name="loginTest" duration-ms="6436" started-at="2021-02-09T19:34:54Z" finished-at="2021-02-09T19:35:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- Tests.LoginTest -->
+    </test> <!-- LoginTest -->
+  </suite> <!-- Suite -->
+</testng-results>
